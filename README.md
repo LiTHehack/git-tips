@@ -1,8 +1,9 @@
-#Git-tips:
+#Git-tips
 Här har vi samlat ett gäng bra Git-kommandon som kan hjälpa dig komma igång med Git.
 
-##Kommandon:
+Vi vill också passa på att höja ett varningens finger för att använda grafiska gränssnitt för Git. Risken för att det blir fel och för att framförallt merge-konfilkter krånglar blir då mycket större. Vårt tips är därför att du lär dig dessa kommandon och kanske lägger lite tid på det.
 
+##Kommandon
 
 Se till att starta ett nytt respository
 
@@ -59,3 +60,4 @@ Det vi tar upp här är mycket, men långt ifrån allt. Därför har vi samlat n
 * Mer om branches: http://pcottle.github.io/learnGitBranching/
 * En bra interaktiv Git-tutorial: http://try.github.io/
 * Branching-modellen vi visade på Git-föreläsningen: http://nvie.com/posts/a-successful-git-branching-model/
+* Koppla Git med GitHub: https://help.github.com/articles/set-up-git
