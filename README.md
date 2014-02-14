@@ -1,5 +1,8 @@
-Kommandon:
-============
+#Git-tips:
+Här har vi samlat ett gäng bra Git-kommandon som kan hjälpa dig komma igång med Git.
+
+##Kommandon:
+
 
 Se till att starta ett nytt respository
 
@@ -33,7 +36,7 @@ Bekräfta ändringar för att ge filerna en hållpunkt
 	$ git add [..]
 	$ git commit --amend
 
-Branches är praktiskt vid test av nya experimentella funktioner då inte 
+Branches är praktiskt vid test av nya experimentella funktioner då inte
 
     // skapa en ny branch, lista branches och sedan checka ut
 	$ git branch namn-pa-branch
@@ -50,3 +53,9 @@ Hämta tillbaka gammal commit eller fil
 	$ git checkout [commit-id]
 	// slå ihop med annan commit
 	git merge [commit-id]
+
+## Lär dig mer
+Det vi tar upp här är mycket, men långt ifrån allt. Därför har vi samlat några bra länkar här, där du kan lära dig mer:
+* Mer om branches: http://pcottle.github.io/learnGitBranching/
+* En bra interaktiv Git-tutorial: http://try.github.io/
+* Branching-modellen vi visade på Git-föreläsningen: http://nvie.com/posts/a-successful-git-branching-model/
